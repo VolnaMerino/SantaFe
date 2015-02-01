@@ -1,0 +1,16 @@
+B:\Dropbox\Ekvilibrij\Šola\3. letnik\Diploma\C# projects\SantaFe\SantaFe\obj\x86\Debug\SantaFe.Form1.resources
+B:\Dropbox\Ekvilibrij\Šola\3. letnik\Diploma\C# projects\SantaFe\SantaFe\obj\x86\Debug\SantaFe.Properties.Resources.resources
+B:\Dropbox\Ekvilibrij\Šola\3. letnik\Diploma\C# projects\SantaFe\SantaFe\obj\x86\Debug\SantaFe.csproj.GenerateResource.Cache
+B:\Dropbox\Ekvilibrij\Šola\3. letnik\Diploma\C# projects\SantaFe\SantaFe\bin\Debug\SantaFe.exe
+B:\Dropbox\Ekvilibrij\Šola\3. letnik\Diploma\C# projects\SantaFe\SantaFe\bin\Debug\SantaFe.pdb
+B:\Dropbox\Ekvilibrij\Šola\3. letnik\Diploma\C# projects\SantaFe\SantaFe\obj\x86\Debug\SantaFe.exe
+B:\Dropbox\Ekvilibrij\Šola\3. letnik\Diploma\C# projects\SantaFe\SantaFe\obj\x86\Debug\SantaFe.pdb
+B:\Dropbox\Ekvilibrij\Šola\3. letnik\Diploma\C# projects\SantaFe\SantaFe\obj\x86\Debug\SantaFe.csprojResolveAssemblyReference.cache
+B:\Programming\SantaFe\SantaFe\bin\Debug\SantaFe.exe
+B:\Programming\SantaFe\SantaFe\bin\Debug\SantaFe.pdb
+B:\Programming\SantaFe\SantaFe\obj\x86\Debug\SantaFe.csprojResolveAssemblyReference.cache
+B:\Programming\SantaFe\SantaFe\obj\x86\Debug\SantaFe.Form1.resources
+B:\Programming\SantaFe\SantaFe\obj\x86\Debug\SantaFe.Properties.Resources.resources
+B:\Programming\SantaFe\SantaFe\obj\x86\Debug\SantaFe.csproj.GenerateResource.Cache
+B:\Programming\SantaFe\SantaFe\obj\x86\Debug\SantaFe.exe
+B:\Programming\SantaFe\SantaFe\obj\x86\Debug\SantaFe.pdb
